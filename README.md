@@ -1,4 +1,4 @@
-# CSE341-project
+# Simple Calculator
 
 ## Features 
 
